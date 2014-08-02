@@ -1,3 +1,6 @@
+#Problem 2: Even Fibonacci Numbers
+#Kyle Verhoog July 30, 2014
+
 #By considering the terms in the sequence whose values do not exceed four million,
 #find the sum of the even-valued terms
 
