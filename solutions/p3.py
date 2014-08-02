@@ -14,3 +14,4 @@ for i in xrange(int(math.sqrt(n)),2,-1):
 		if NOT_PRIME == False:
 			print(i)
 			exit()
+#Ans: 6857

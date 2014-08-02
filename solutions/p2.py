@@ -15,4 +15,4 @@ while (n < 4000000):
 		s = s + n
 print(s)
 	
-		
+#Ans: 6857

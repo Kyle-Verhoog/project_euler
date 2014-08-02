@@ -10,4 +10,4 @@ for i in range(0,u):
 	if(i%3 == 0) or (i%5 == 0):
 		s = s + i
 print(s)
-
+#Ans: 233168
