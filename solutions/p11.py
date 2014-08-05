@@ -30,7 +30,7 @@ n = []
 #get rid of the pesky white spaces
 s = s.replace(" ", "")
 
-L = 2 #number of digits in each group of numbers
+L = 2 #number of digits in each group of numbers 
 N = 4 #the number of adjacent numbers to look for
 G = 20 #grid size
 P = 1 #largest product
@@ -84,7 +84,7 @@ for i in range(0,len(n) - ((N-1)*G)):
 		P = p
 #Check the largest product of the left diagonal	
 for i in range(0,len(n) - ((N-1)*G)):
-	if inbound_ldiag(i):len(n) - ((N-1)*G)
+	if inbound_ldiag(i):
 		p = 1
 		for x in range(0,N):
 			p = p*n[i-x+x*G]
