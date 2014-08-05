@@ -1,3 +1,6 @@
+#Problem 13: Large Sum
+#Kyle Verhoog August 4, 2014
+
 #Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 s="\
 37107287533902102798797998220837590246510135740250\
